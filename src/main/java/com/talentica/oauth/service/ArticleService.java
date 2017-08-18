@@ -16,7 +16,7 @@ import java.util.List;
 @Service("articleService")
 public class ArticleService implements IArticleService {
 
-    static final Logger log = Logger.getLogger(UppercaseService.class);
+    static final Logger log = Logger.getLogger(ArticleService.class);
 
     @Autowired
     private IArticleDAO articleDAO;

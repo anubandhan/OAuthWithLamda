@@ -1,5 +1,7 @@
 package com.talentica.oauth.entity;
 
+import javax.persistence.*;
+
 /**
  * Created by anubandhans on 14/08/17.
  */
